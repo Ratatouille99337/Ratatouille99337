@@ -1,15 +1,19 @@
 ## 👋 Hi
 
-I'm Juan Carlos, a Frontend Engineer with a passion for building and learning new things. I'm currently working as a FullStack developer at [Stellary](https://stellary.com) and I love to explore new technologies and tools.
+I'm Ratatouille, I'm a passionate software engineer with a love for coding that began in grade
+school. Specializing in frontend and full-stack development, I've collaborated
 
-## 📝 About me
+with a diverse range of companies, from cutting-edge startups to well-
+established enterprises. My experience spans the entire web development
 
-I'm also a big fan of open source and contributing to projects that I find interesting. If you're interested in working with me, feel free to reach out!
+lifecycle and mobile applications, from initial concept and architecture to
+successful deployment, ensuring high-quality and scalable solutions.
 
 ## 📫 How to reach me
 
 <div style="text-align: center;">
-  <img src="./bg.jpg" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="https://static01.nyt.com/images/2020/11/22/multimedia/00xp-ratatouille/00xp-ratatouille-articleLarge.jpg?quality=75&auto=webp&disable=upscale" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="" alt="Profile Background" style="width: 100%; max-width: 100%;">
 </div>
 <br />
 <p align="center">
