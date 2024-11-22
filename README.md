@@ -16,9 +16,17 @@ successful deployment, ensuring high-quality and scalable solutions.
 ### Contact ME:
 ### Social media: 📡
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluebigthink)
-[![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XHyCxZw9)
-[![Skype Badge](https://img.shields.io/badge/Skype-00aff0?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/your_skype_invite_link)
+<p align="center">
+  <a href="https://www.linkedin.com/in/juancarlos0330" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:juancarlos.king0330@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://join.skype.com/invite/eU5RItNU94sI" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://t.me/juancarlos_0330" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
+  &nbsp;&nbsp;
+  <a href="https://juancarlos-porfolio.my.canva.site" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+</p>
 
 ## Languages and Tools 
 <div>
