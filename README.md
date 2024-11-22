@@ -1,8 +1,17 @@
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
+</div>
+<!-- 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+ -->
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ## 👋 Hi
 
-I'm Ratatouille, I'm a passionate software engineer with a love for coding that began in grade
+I'm Ratatouille, I like BlueBigThink. I'm a passionate software engineer with a love for coding that began in grade
 school. Specializing in frontend and full-stack development, I've collaborated
 
 with a diverse range of companies, from cutting-edge startups to well-
@@ -93,14 +102,7 @@ successful deployment, ensuring high-quality and scalable solutions.
  
 
  
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
-</div>
-<!-- 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
- -->
+
 
 
 
