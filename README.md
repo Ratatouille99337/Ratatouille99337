@@ -1,5 +1,5 @@
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ratatouille&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 ### 👋 Hi
 
@@ -14,7 +14,7 @@ successful deployment, ensuring high-quality and scalable solutions.
 
   
 <p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Ratatouille&mode=weekly&theme=whatsapp-dark2">
 </p>
 
 
@@ -24,14 +24,14 @@ successful deployment, ensuring high-quality and scalable solutions.
 
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=BlueBigThink&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Ratatouille&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ratatouille&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
 
  
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Ratatouille&style=for-the-badge&color=orange" alt=""/>
 </div>
 <!-- 
 <p align="center">
