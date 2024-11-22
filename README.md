@@ -1,4 +1,7 @@
-## 👋 Hi
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+### 👋 Hi
 
 I'm Ratatouille, I'm a passionate software engineer with a love for coding that began in grade
 school. Specializing in frontend and full-stack development, I've collaborated
@@ -9,10 +12,6 @@ established enterprises. My experience spans the entire web development
 lifecycle and mobile applications, from initial concept and architecture to
 successful deployment, ensuring high-quality and scalable solutions.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-### Bio:    
-Have a Big Big Big Think!
 
 ### Contact ME:
 ### Social media: 📡
