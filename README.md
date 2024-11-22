@@ -34,7 +34,7 @@ successful deployment, ensuring high-quality and scalable solutions.
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
  
-## ✍️Languages and Tools 
+## 💼Languages and Tools 
 
 ### Languages:
 | Python3 | Go | JS | TS | Solidity |
@@ -87,7 +87,7 @@ successful deployment, ensuring high-quality and scalable solutions.
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
-  ### Contact ME:
+## ✍️ Contact ME:
 <p align="center">
   <a href="https://www.linkedin.com/in/juancarlos0330" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
   &nbsp;&nbsp;
