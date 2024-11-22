@@ -12,7 +12,7 @@ successful deployment, ensuring high-quality and scalable solutions.
 ## 📫 How to reach me
 
 <div style="text-align: center;">
-  <img src="https://static01.nyt.com/images/2020/11/22/multimedia/00xp-ratatouille/00xp-ratatouille-articleLarge.jpg?quality=75&auto=webp&disable=upscale" alt="Profile Background" style="width: 100%; max-width: 100%;">
+  <img src="[https://static01.nyt.com/images/2020/11/22/multimedia/00xp-ratatouille/00xp-ratatouille-articleLarge.jpg?quality=75&auto=webp&disable=upscale](https://www.ekreative.com/wp-content/uploads/2021/03/pankaj-patel-_SgRNwAVNKw-unsplash.jpg)" alt="Profile Background" style="width: 100%; max-width: 100%;">
 
 </div>
 <br />
