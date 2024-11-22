@@ -12,6 +12,32 @@ established enterprises. My experience spans the entire web development
 lifecycle and mobile applications, from initial concept and architecture to
 successful deployment, ensuring high-quality and scalable solutions.
 
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=BlueBigThink&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+ 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
+</div>
+<!-- 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+ -->
 
 ### Contact ME:
 ### Social media: 📡
@@ -82,32 +108,7 @@ successful deployment, ensuring high-quality and scalable solutions.
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
 
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
-</p>
 
-
----
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=BlueBigThink&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
- 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
-</div>
-<!-- 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
- -->
 
 
 ## 📫 How to reach me
