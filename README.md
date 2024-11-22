@@ -18,7 +18,7 @@ successful deployment, ensuring high-quality and scalable solutions.
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluebigthink)
 [![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XHyCxZw9)
-[![Skype Badge](https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/your_skype_invite_link)
+[![Skype Badge](https://img.shields.io/badge/Skype-green?style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/your_skype_invite_link)
 
 ## Languages and Tools 
 <div>
