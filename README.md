@@ -1,58 +1,13 @@
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=BlueBigThink&ranking=B,C&theme=algolia&SECRET&title=Followers,Commits,Repositories,Experience,MultipleLang,-Stars,-PullRequest,-Reviews&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
-### 👋 Hi
-
-I'm Ratatouille, I'm a passionate software engineer with a love for coding that began in grade
-school. Specializing in frontend and full-stack development, I've collaborated
-
-with a diverse range of companies, from cutting-edge startups to well-
-established enterprises. My experience spans the entire web development
-
-lifecycle and mobile applications, from initial concept and architecture to
-successful deployment, ensuring high-quality and scalable solutions.
-
-  
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
-</p>
-
-
----
-
-
-
-
-<p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=BlueBigThink&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
-</p>
- 
-
- 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
-</div>
-<!-- 
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
- -->
+### Bio:    
+Have a Big Big Big Think!
 
 ### Contact ME:
 ### Social media: 📡
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/juancarlos0330" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/linkedin.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:juancarlos.king0330@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/eU5RItNU94sI" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/juancarlos_0330" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://juancarlos-porfolio.my.canva.site" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
-</p>
+[![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/bluebigthink)
+[![Discord Badge](https://img.shields.io/badge/Discord-purple?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/XHyCxZw9)
 
 ## Languages and Tools 
 <div>
@@ -107,6 +62,33 @@ successful deployment, ensuring high-quality and scalable solutions.
 | Linux | Ubuntu | 
 |----------|----------|
 | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> |
+
+  
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
+</p>
+
+
+---
+
+
+
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=BlueBigThink&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlueBigThink&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+</p>
+ 
+
+ 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=BlueBigThink&style=for-the-badge&color=orange" alt=""/>
+</div>
+<!-- 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+ -->
 
 
 
