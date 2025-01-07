@@ -21,12 +21,6 @@ lifecycle and mobile applications, from initial concept and architecture to
 successful deployment, ensuring high-quality and scalable solutions.
 
 ## ✨ HightLight
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=bluebigthink&mode=weekly&theme=whatsapp-dark2">
-</p>
-
-
----
 
 
 <p align="center">
